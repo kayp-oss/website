@@ -1,7 +1,7 @@
 <h1 align="center">
     <samp>website</samp> <br />
-    <img alt="GitHub package.json version (branch)" src="https://img.shields.io/github/package-json/v/kayp-oss/website/master">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/kayp-oss/website">
+    <img alt="GitHub package.json version (branch)" src="https://img.shields.io/github/package-json/v/kayp-oss/website/master?style=flat-square&label=version&labelColor=%23ffffff&color=%23000000">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/kayp-oss/website?style=flat-square&label=license&labelColor=%23ffffff&color=%23000000">
 </h1>
 
 This repository contains the source code for the official website of the [organization](https://github.com/kayp-oss). The website is built for showcasing our organization’s mission, services, and updates.
