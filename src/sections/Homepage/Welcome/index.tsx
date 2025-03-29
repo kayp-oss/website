@@ -6,7 +6,7 @@ import { AnimatedWelcome } from './animation'
 export const WelcomeSection: React.FC = () => {
   return (
     <Fragment>
-      <h1 aria-hidden className='sr-only'>
+      <h1 aria-hidden className="sr-only">
         KAYP - Knowledge and Automation Yielding Process
       </h1>
 

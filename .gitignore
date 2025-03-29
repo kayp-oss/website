@@ -31,6 +31,7 @@ yarn-error.log*
 
 # env files (can opt-in for commiting if needed)
 .env*
+!.env.example
 
 # vercel
 .vercel
@@ -39,4 +40,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-certificates
+# ignore all ssl certificates
+/certificates
